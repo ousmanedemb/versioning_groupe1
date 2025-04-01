@@ -1,0 +1,5 @@
+outs:
+- md5: 6f4b59aa1200b7ea016c6abf4d41b2c7
+  size: 45336
+  hash: md5
+  path: voitures.csv

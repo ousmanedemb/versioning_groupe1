@@ -1,0 +1,5 @@
+outs:
+- md5: db8c3b0fda78cb17ab2704197f690a94
+  size: 1941
+  hash: md5
+  path: encoding_mapping.pkl

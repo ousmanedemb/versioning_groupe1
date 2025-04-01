@@ -1,2 +1,8 @@
+[cache]
+    dir = cache
+[core]
+    remote = data-distant
 ['remote "data-distant"']
     url = gdrive://1zxoObC-36tFxuQReTpaLivQusq0N7k8U
+    gdrive_client_id = 97516196278-d2s7n164ekj05s617t10iub59dga4055.apps.googleusercontent.com
+    gdrive_client_secret = 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
